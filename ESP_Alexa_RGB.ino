@@ -7,6 +7,7 @@
 #define LED_TYPE    WS2812 //Your LED type
 #define COLOR_ORDER RGB
 #define PIN1          D3    //LED Pin
+//#define CLOCK_PIN ? 
 #define NUM_LEDS1      8     //Enter number of LEDs
 CRGB leds1[NUM_LEDS1];
 
